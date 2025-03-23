@@ -1,3 +1,4 @@
 .wordpress
 db
 wordpress
+nginxs/logs/*
